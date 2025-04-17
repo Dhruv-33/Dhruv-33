@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Chovatiya</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhruv-33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -79,20 +74,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/dhruv-chovatiya" target="_blank" style="text-decoration: none;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/dhruv_45.07" target="_blank" style="text-decoration: none;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -105,4 +86,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-33&" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dhruv-chovatiya" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/dhruv_45.07" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
